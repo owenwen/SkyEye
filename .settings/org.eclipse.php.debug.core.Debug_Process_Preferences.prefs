@@ -1,0 +1,4 @@
+#Tue Mar 20 11:02:46 CST 2012
+eclipse.preferences.version=1
+org.eclipse.php.debug.core.use-project-settings=true
+org.eclipse.php.debug.coreenable_cli_debug=true
